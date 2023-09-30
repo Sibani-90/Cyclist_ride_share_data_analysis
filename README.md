@@ -4,19 +4,6 @@ Bike-Share Analysis
 
 ![Bi-cycle](https://github.com/Sibani-90/Cyclist_ride_share_data_analysis/assets/133207705/a053c7e6-8e8b-41d0-bcca-1278cd2a7a99)
 
-An overview of the monthly distribution of rides taken by both member types shows a significant increase in the use of the bike share services from the beginning of the month of May through to the end of the month of September; predominantly around the summer period. Service usage drops during the winter period: November to February. We can conclude that the weather plays a pivotal role in influencing user behavior regardless of subscription type.
-
-![Capstone Project- Ride sharing analysis](https://github.com/Sibani-90/Cyclist_ride_share_data_analysis/assets/133207705/fe060ab3-f511-4acb-86b6-d6212eee2ecf)
-
-A breakdown of ride type preferecence by both user types shows that:
-
-A majority of annual members lean towards the classic bikes with approximately 77% of the total number of rides by annual members use the classic bikes as ride type.
-22% prefer the Electric bikes and less than 1% prefer the docked bikes.
-While a very negligible number of Annual members use the Docked bikes, approximately 15.2% of the total number of Casual members prefer the Docked bikes as their ride types.
-
-Click [here!](https://public.tableau.com/app/profile/sibani.majhi/viz/GoogleDataanalysis-Bi-cycleridesharingdataanalysis/CapstoneProject-Ridesharinganalysis) for interactive dashboard.
-
-
 
 This analysis is an optional case study from the Google Data Analytics Professional Certificate on Coursera.
 
@@ -47,12 +34,19 @@ The data used would cover rider information spanning a one-year period from Augu
 **Data Visualization**
 
 The data was exported in a CSV file to Tableau for visualization and further analysis.
+
 ![Dashboard 1](https://github.com/Sibani-90/Cyclist_ride_share_data_analysis/assets/133207705/5d6f88fe-75f0-4581-a5ad-2b830118800e)
+An overview of the monthly distribution of rides taken by both member types shows a significant increase in the use of the bike share services from the beginning of the month of May through to the end of the month of September; predominantly around the summer period. Service usage drops during the winter period: November to February. We can conclude that the weather plays a pivotal role in influencing user behavior regardless of subscription type.
 
+![Capstone Project- Ride sharing analysis](https://github.com/Sibani-90/Cyclist_ride_share_data_analysis/assets/133207705/fe060ab3-f511-4acb-86b6-d6212eee2ecf)
 
+A breakdown of ride type preferecence by both user types shows that:
 
+A majority of annual members lean towards the classic bikes with approximately 77% of the total number of rides by annual members use the classic bikes as ride type.
+22% prefer the Electric bikes and less than 1% prefer the docked bikes.
+While a very negligible number of Annual members use the Docked bikes, approximately 15.2% of the total number of Casual members prefer the Docked bikes as their ride types.
 
-
+Click [here!](https://public.tableau.com/app/profile/sibani.majhi/viz/GoogleDataanalysis-Bi-cycleridesharingdataanalysis/CapstoneProject-Ridesharinganalysis) for interactive dashboard.
 
 **Conclusion**
 It can be seen from the graphs that cyclist subscribers use the bikes consistently every day for a brief period of time, but customers utilize them more inconsistently. On average, customers ride for significantly longer periods of time than subscribers, yet they ride bikes less often during the week and more on Saturdays and Sundays. In short, customers mostly use the service for leisure and enjoyment, while subscribers utilize it primarily for transportation for their everyday routines.
