@@ -39,6 +39,8 @@ The data was exported in a CSV file to Tableau for visualization and further ana
 
 
 
+
+
 **Conclusion**
 It can be seen from the graphs that cyclist subscribers use the bikes consistently every day for a brief period of time, but customers utilize them more inconsistently. On average, customers ride for significantly longer periods of time than subscribers, yet they ride bikes less often during the week and more on Saturdays and Sundays. In short, customers mostly use the service for leisure and enjoyment, while subscribers utilize it primarily for transportation for their everyday routines.
 
