@@ -1,6 +1,6 @@
-Cyclist Ride Share Data Analysis
+#Cyclist Ride Share Data Analysis
 Introduction
-Cyclistic Logo
+
 
 Welcome to the Cyclist Ride Share Data Analysis repository! In this project, we dive deep into meticulously cleaned and processed data to extract valuable insights. These insights serve as the foundation for data-driven decisions by Cyclistic's Executive team. Our goal is to craft effective marketing strategies geared towards transforming casual riders into loyal annual members.
 
