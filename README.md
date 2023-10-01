@@ -59,4 +59,4 @@ According to the data, customers use the bike share on the weekends more. Offeri
 An annual membership package which would see a reduction in cost of subscription amounts for the months in the winter period to encourage more sign ups under the plan should be designed.
 
 **Tools**
-Excel and R Studio for Data Cleaning, R Studio for Data Transformation, Data Visualisation and Data Analysis
+Excel and R Studio for Data Cleaning, R Studio for Data Transformation,Data Analysis and Tableu dashboards for Data Visualisation.
